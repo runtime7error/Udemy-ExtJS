@@ -1,3 +1,3 @@
-# Financial application
+# Financial Udemy Application
 
-moderndesktopminimal template
+This ExtJS page need the API (Not included on github).
