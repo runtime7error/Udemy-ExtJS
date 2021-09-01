@@ -1,0 +1,26 @@
+{
+  "leaf": false,
+  "children": [
+    {
+      "text": "Dashboard",
+      "iconCls": "x-fa fa-home",
+      "leaf": true,
+      "xtype": "homeview"
+    },{
+      "text": "Fornecedores",
+      "iconCls": "x-fa fa-users",
+      "leaf": true,
+      "xtype": "suppliersview"
+    },{
+      "text": "Categorias",
+      "iconCls": "x-fa fa-file-invoice",
+      "leaf": true,
+      "xtype": "billcategoryview"
+    },{
+      "text": "Contas a Pagar",
+      "iconCls": "x-fa fa-money-bill",
+      "leaf": true,
+      "xtype": "billtopayview"
+    }
+  ]
+}
